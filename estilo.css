@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+}
+.jogo{
+    background-image: url(fundo.jpeg);
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+}
+.lados{
+    display: flex;
+}
+.iniciar{
+    margin-top: 215px;
+}
+button{
+    width: 600px;
+    height: 80px;
+    cursor: pointer;
+    opacity: ;
+}
+.musica{
+    height: 150px;
+    width: 40px;
+    overflow: hidden;
+    margin-left: 95px;
+    margin-top: 40px;
+    opacity: ;
+}
